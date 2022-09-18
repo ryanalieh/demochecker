@@ -1,3 +1,6 @@
+//Made by lxnar-devv
+
+
 import os, httpx, time, random, sys, ctypes, json
 from colorama import Fore
 from threading import Thread
